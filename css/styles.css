@@ -1,3 +1,7 @@
+body {
+    text-align: center;
+}
+
 h1 {
     color: blue;
     text-align: center;
@@ -16,4 +20,7 @@ p, a {
 ul, ol {
     line-height: 40px;
     font-family: sans-serif;
+}
+img {
+    margin: 14px;
 }
