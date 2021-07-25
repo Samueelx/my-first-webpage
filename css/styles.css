@@ -1,6 +1,16 @@
 body {
     text-align: center;
 }
+.dark-background {
+    background-color: #493548;
+    color: aliceblue;
+}
+.light-background {
+    background-color: aliceblue;
+}
+button {
+    margin-top: 10px;
+}
 
 h1 {
     color: blue;
@@ -22,5 +32,5 @@ ul, ol {
     font-family: sans-serif;
 }
 img {
-    margin: 14px;
+    margin: 10px;
 }
